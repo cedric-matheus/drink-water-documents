@@ -14,7 +14,7 @@ Modelo representativo dos dados do usuário.
 ## Dia
 Modelo representativo de um dia.
 
-- Data : String
+- Data : String : Chave
 - Total de Água Objetivo Ml : Vetor de Duas Posições de Número Inteiro (0=min, 1=max)
 - Total de Água Ingerido Ml : Número Inteiro
 - Diferença de Água Objetivo Ml : Vetor de Duas Posições de Número Inteiro (0=min, 1=max)
